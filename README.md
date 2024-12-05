@@ -19,7 +19,7 @@
 # Video Tag Example
 
 <video width="640" height="360" controls>
-  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.mp4" type="Mahabub/fblite_video-3.mp4">
   <source src="movie.ogg" type="video/ogg">
   Your browser does not support the video tag.
 </video>
