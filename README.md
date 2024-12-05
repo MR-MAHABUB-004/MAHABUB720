@@ -16,6 +16,14 @@
 <p align="center">
   <img alt="Coding GIF" width="300" height="auto" src="Mahabub/coding.gif"/>
 </p>
+# Video Tag Example
+
+<video width="640" height="360" controls>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
+</P>
 
 <h3 align="center">𝙼𝚢 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚜</h3>
 <p align="center">
